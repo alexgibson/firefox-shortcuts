@@ -1,4 +1,5 @@
-# firefox-shortcuts
+# Firefox Shortcuts
+
 A curated list of useful Firefox shortcuts 🔥🦊
 
 ## Browsing
