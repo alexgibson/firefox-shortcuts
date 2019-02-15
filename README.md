@@ -10,6 +10,7 @@ A curated list of useful Firefox shortcuts 🔥🦊
 - Find in page: `cmd + F` or `/` for quick find.
 - Back: `cmd + [`.
 - Forward: `cmd + ]`.
+- Screenshot: `cmd + shift + S` ✨
 
 ## Tabs & windows
 
